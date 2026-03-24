@@ -1,1 +1,1 @@
-# boriscazacu.github.io
+# Frontend part for telegram view of eppoint app 
